@@ -4,6 +4,6 @@ class Greeter {
         this.name = name;
     }
     public String greet () {
-        System.out.println("Hello" + name + " what a wonderful day.");
+        System.out.println("Hello" + name + " , what a bad day.");
     }
 }
